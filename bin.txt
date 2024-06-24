@@ -1,3 +1,4 @@
+[.exe*
 addgnupghome*
 applygnupgdefaults*
 arch.exe*
@@ -13,7 +14,7 @@ bash.exe*
 bashbug*
 bunzip2.exe*
 bzcat.exe*
-Noa linija
+bzcmp*
 bzdiff*
 bzegrep*
 bzfgrep*
